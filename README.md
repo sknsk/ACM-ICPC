@@ -1,1 +1,1 @@
-# algorithm_s
+# ACM ICPC (Algorithm Study Group)
