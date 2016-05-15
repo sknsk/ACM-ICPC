@@ -10,7 +10,7 @@ import java.util.StringTokenizer;
  * 스타트링크
  * @author sknsk
  */
-public class C5014 {
+public class C_5014 {
      
 	static int F; //건물층수
 	static int S; //강호
