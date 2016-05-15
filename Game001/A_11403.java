@@ -3,7 +3,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-//11403 °æ·ÎÃ£±â
+/**
+ * https://www.acmicpc.net/problem/11403
+ * ê²½ë¡œì°¾ê¸°
+ * @author sknsk
+ */
 public class A_11403 {
 
 	static int V;

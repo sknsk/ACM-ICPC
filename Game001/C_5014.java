@@ -4,14 +4,19 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
- 
+
+/**
+ * https://www.acmicpc.net/problem/2525
+ * ì˜¤ë¸ ì‹œê³„
+ * @author sknsk
+ */
 public class C5014 {
      
-	static int F; //ÃÑ °è´Ü¼ö
-	static int S; //°­È£ À§Ä¡
-	static int G; //½ºÅ¸Æ®¸µÅ© À§Ä¡
-	static int U; //À­Ãş
-	static int D; //¾Æ·¡Ãş
+	static int F; //ê±´ë¬¼ì¸µìˆ˜
+	static int S; //ê°•í˜¸
+	static int G; //ìŠ¤íƒ€íŠ¸ë§í¬
+	static int U; //ìœ„ì¹¸ìˆ˜
+	static int D; //ì•„ë˜ì¹¸ìˆ˜
 	
 	static int [] visited;
 	static int min = 10000001;
