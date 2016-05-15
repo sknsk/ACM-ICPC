@@ -11,7 +11,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
  
 /**
- * https://www.acmicpc.net/problem/11403
+ * https://www.acmicpc.net/problem/2525
  * 오븐 시계
  * @author sknsk
  */

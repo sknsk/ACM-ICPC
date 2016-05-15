@@ -6,8 +6,8 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 /**
- * https://www.acmicpc.net/problem/2525
- * 오븐 시계
+ * https://www.acmicpc.net/problem/5014
+ * 스타트링크
  * @author sknsk
  */
 public class C5014 {
