@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class nugget {
+public class Nugget {
 	public static void main(String[] args) {
 		FScanner sc = new FScanner();
 		int n = sc.nextInt();
